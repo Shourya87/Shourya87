@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi, I’m Shourya 👋
 
-<!--
-**Shourya87/Shourya87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer in the making 🚀  
+Focused on building real projects, mastering fundamentals, and staying consistent.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 College student & aspiring **Frontend / Software Developer**
+- ⚛️ Learning by building with **React**
+- 🧠 Strong interest in **DSA & problem solving**
+- 🎯 Goal: **Land a frontend internship**
+
+I believe clean code, clarity, and consistency beat shortcuts.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+- Java  
+- JavaScript (ES6+)
+
+**Frontend**
+- HTML5  
+- CSS3  
+- React.js
+
+**Tools**
+- Git & GitHub  
+- VS Code  
+- Vercel
+
+---
+
+## 📌 Featured Work
+
+- 🔥 **Coding Vibe**  
+  Daily DSA, Java logic & frontend mini-projects  
+  👉 https://coding-vibe-by-shourya.vercel.app  
+
+- 🏗️ **College Projects**  
+  Academic + practical frontend work
+
+---
+
+## 📊 What I’m Working On Now
+
+- Improving React component structure
+- Solving DSA problems consistently
+- Building portfolio-ready projects
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/shourya-gaur
+
+---
+
+⭐ *Open to learning, feedback, and opportunities.*
