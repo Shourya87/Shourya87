@@ -1,55 +1,87 @@
-# Hi, I’m Shourya 👋
+<h1 align="center">Hi, I’m Shourya 👋</h1>
 
-Frontend Developer in the making 🚀  
-Focused on building real projects, mastering fundamentals, and staying consistent.
+<p align="center">
+Frontend-focused developer building scalable, production-ready web applications
+</p>
+
+<p align="center">
+Currently working with <strong>React</strong>, learning <strong>Next.js</strong> & <strong>TypeScript</strong>,  
+and crafting a real-world e-commerce product — <strong>AUIND</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shourya-gaur">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://coding-vibe-by-shourya.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 College student & aspiring **Frontend / Software Developer**
-- ⚛️ Learning by building with **React**
-- 🧠 Strong interest in **DSA & problem solving**
-- 🎯 Goal: **Land a frontend internship**
+- ⚛️ Strong foundation in **React.js** with a focus on clean UI and reusable components
+- 🚀 Actively learning **Next.js** & **TypeScript** for scalable, deployment-level applications
+- 🧠 Practicing **DSA & problem solving** consistently using Java
+- 🎯 Goal: **Land a frontend internship and grow as a product-focused engineer**
 
-I believe clean code, clarity, and consistency beat shortcuts.
+I learn by building real projects, refactoring often, and pushing toward production-quality code.
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**
-- Java  
-- JavaScript (ES6+)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,java" />
+</p>
 
-**Frontend**
-- HTML5  
-- CSS3  
-- React.js
-
-**Tools**
+**Tools & Workflow**
 - Git & GitHub  
 - VS Code  
-- Vercel
+- Vercel  
 
 ---
 
-## 📌 Featured Work
+## 🚀 Featured Projects
 
-- 🔥 **Coding Vibe**  
-  Daily DSA, Java logic & frontend mini-projects  
-  👉 https://coding-vibe-by-shourya.vercel.app  
+### 🛒 AUIND — E-commerce Platform *(In Progress)*
+A real-world e-commerce website focused on:
+- scalable frontend architecture  
+- clean, reusable React components  
+- migration toward **Next.js + TypeScript**  
+- production-style deployment mindset  
 
-- 🏗️ **College Projects**  
-  Academic + practical frontend work
+> Built to simulate real product development, not tutorial demos.
 
 ---
 
-## 📊 What I’m Working On Now
+### 📘 Coding Vibe
+A daily coding journey covering:
+- DSA & Java logic  
+- frontend mini-projects  
+- consistency-driven learning  
 
-- Improving React component structure
-- Solving DSA problems consistently
-- Building portfolio-ready projects
+🔗 https://coding-vibe-by-shourya.vercel.app
+
+---
+
+## 🎯 What I’m Working On Now
+
+- Learning **Next.js** & **TypeScript** deeply
+- Refining React patterns through AUIND
+- Writing cleaner, maintainable, and scalable frontend code
+- Improving problem-solving speed and consistency
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shourya87&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -57,6 +89,6 @@ I believe clean code, clarity, and consistency beat shortcuts.
 
 - 💼 LinkedIn: https://www.linkedin.com/in/shourya-gaur
 
----
+Open to internships, learning opportunities, and meaningful collaboration.
 
-⭐ *Open to learning, feedback, and opportunities.*
+⭐ If you like my work or relate to the journey, feel free to explore my repositories.
