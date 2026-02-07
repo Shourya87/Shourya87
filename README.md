@@ -58,30 +58,12 @@ A real-world e-commerce website focused on:
 
 ---
 
-### 📘 Coding Vibe
-A daily coding journey covering:
-- DSA & Java logic  
-- frontend mini-projects  
-- consistency-driven learning  
-
-🔗 https://coding-vibe-by-shourya.vercel.app
-
----
-
 ## 🎯 What I’m Working On Now
 
 - Learning **Next.js** & **TypeScript** deeply
 - Refining React patterns through AUIND
 - Writing cleaner, maintainable, and scalable frontend code
 - Improving problem-solving speed and consistency
-
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Shourya87&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
