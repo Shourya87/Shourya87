@@ -35,7 +35,7 @@ I learn by building real projects, refactoring often, and pushing toward product
 ## 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,java,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,java,nodejs,express,mongodb,cpp" />
 </p>
 
 **Tools & Workflow**
